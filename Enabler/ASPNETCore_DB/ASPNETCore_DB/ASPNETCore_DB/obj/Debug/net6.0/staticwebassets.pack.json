@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ASPNETCore_DB.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ASPNETCore_DB.wcrzcwynsl.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\images\\DefaultPic.png",
+      "PackagePath": "staticwebassets\\images\\DefaultPic.png"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\images\\c6bf9b75-a909-4ba6-be8a-f1927c9a7143.png",
+      "PackagePath": "staticwebassets\\images\\c6bf9b75-a909-4ba6-be8a-f1927c9a7143.png"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\images\\carouselImages\\307532900_5688802147809037_7107252289004692364_n.jpg",
+      "PackagePath": "staticwebassets\\images\\carouselImages\\307532900_5688802147809037_7107252289004692364_n.jpg"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\images\\carouselImages\\311710177_5786509648038286_5433418701227347532_n.jpg",
+      "PackagePath": "staticwebassets\\images\\carouselImages\\311710177_5786509648038286_5433418701227347532_n.jpg"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\images\\carouselImages\\394027598_714183864076942_6016132707056003023_n.jpg",
+      "PackagePath": "staticwebassets\\images\\carouselImages\\394027598_714183864076942_6016132707056003023_n.jpg"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\images\\carouselImages\\428599162_788024733359521_4878620201094274879_n.jpg",
+      "PackagePath": "staticwebassets\\images\\carouselImages\\428599162_788024733359521_4878620201094274879_n.jpg"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\images\\carouselImages\\434623993_819916853503642_2392315291984452608_n.jpg",
+      "PackagePath": "staticwebassets\\images\\carouselImages\\434623993_819916853503642_2392315291984452608_n.jpg"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\images\\carouselImages\\enactus.jpeg",
+      "PackagePath": "staticwebassets\\images\\carouselImages\\enactus.jpeg"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\images\\carouselImages\\grad.jpg",
+      "PackagePath": "staticwebassets\\images\\carouselImages\\grad.jpg"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\images\\carouselImages\\sabc.jpg",
+      "PackagePath": "staticwebassets\\images\\carouselImages\\sabc.jpg"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\images\\carouselImages\\soccer.jpg",
+      "PackagePath": "staticwebassets\\images\\carouselImages\\soccer.jpg"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\images\\enactus.jpeg",
+      "PackagePath": "staticwebassets\\images\\enactus.jpeg"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\images\\grad.jpg",
+      "PackagePath": "staticwebassets\\images\\grad.jpg"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\images\\lapeng.jpg",
+      "PackagePath": "staticwebassets\\images\\lapeng.jpg"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\images\\library.jpg",
+      "PackagePath": "staticwebassets\\images\\library.jpg"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\images\\sabc.jpg",
+      "PackagePath": "staticwebassets\\images\\sabc.jpg"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\images\\soccer.jpg",
+      "PackagePath": "staticwebassets\\images\\soccer.jpg"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Documents\\CUT Blog WebApp\\CUT Blog WebApp\\Enabler\\ASPNETCore_DB\\ASPNETCore_DB\\ASPNETCore_DB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ASPNETCore_DB.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ASPNETCore_DB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ASPNETCore_DB.props",
+      "PackagePath": "build\\ASPNETCore_DB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ASPNETCore_DB.props",
+      "PackagePath": "buildMultiTargeting\\ASPNETCore_DB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ASPNETCore_DB.props",
+      "PackagePath": "buildTransitive\\ASPNETCore_DB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

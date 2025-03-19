@@ -1,0 +1,110 @@
+﻿<!--Group members Names : TN Sibanyoni,WS Mohapi,AR Sihlangu, P.S Dichoetlise; TW Yaso; KE Litabe-->
+<!--Student Numbers : 222019339 , 222029511,222085102, 216006631; 222032023; 220040472-->
+<!--SOD316 Group Assignment 1-->
+<!--Due Date : 28 April 2024-->
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="~/css/index.css" asp-append-version="true" />
+     <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+</head>
+
+<div class="text-center">
+    <h1>User Logged In Information</h1>
+    <p>User Id: @ViewData["UserID"]</p>
+    <p>User Name: @ViewData["UserName"]</p>
+    <p>User Role: @ViewData["UserRole"]</p>
+</div>
+
+
+<div class="container-fluid border-bottom mb-3">
+    <h1>Enablers Student System</h1>
+    <br />
+</div>
+
+<div class="col-sm-30">
+
+    <div class="row">
+        <div class="col-md-20">
+            <h2>Welcome to the Enablers Student System</h2>
+          
+
+                   <!--Bootstrap Carousel-->
+        <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="~/images/carouselImages/307532900_5688802147809037_7107252289004692364_n.jpg" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img src="~/images/carouselImages/311710177_5786509648038286_5433418701227347532_n.jpg" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img src="~/images/carouselImages/394027598_714183864076942_6016132707056003023_n.jpg" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img src="~/images/carouselImages/428599162_788024733359521_4878620201094274879_n.jpg" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img src="~/images/carouselImages/enactus.jpeg" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img src="~/images/carouselImages/sabc.jpg" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img src="~/images/carouselImages/soccer.jpg" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img src="~/images/carouselImages/434623993_819916853503642_2392315291984452608_n.jpg" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img src="~/images/carouselImages/img9.jpg" class="d-block w-100" alt="">
+                </div
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+
+
+
+            <!-- Bootstrap Bundle with Popper -->
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.bundle.min.js"
+                    integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa"
+                    crossorigin="anonymous">
+            </script>
+            <script>
+                // Custom JavaScript for controlling carousel pause/resume
+                document.addEventListener("DOMContentLoaded", function () {
+                    var myCarousel = document.getElementById('carouselExampleControls');
+                    var carousel = new bootstrap.Carousel(myCarousel, {
+                        interval: 1500, // Adjust carousel speed (in milliseconds)
+                    });
+
+                    // Pause/resume carousel on button click
+                    var pauseButton = document.querySelector('.pause-carousel');
+                    pauseButton.addEventListener('click', function () {
+                        if (pauseButton.getAttribute('aria-pressed') === 'false') {
+                            carousel.pause();
+                        } else {
+                            carousel.cycle();
+                        }
+                    });
+                });
+            </script>
+                 
+        </div>
+    </div>
+   
+</div>
